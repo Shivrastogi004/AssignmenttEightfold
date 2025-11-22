@@ -1,4 +1,4 @@
-// ...existing code...
+
 # ⚡ MockMate Pro
 
 **AI-Powered Career Coach & Interview Simulator**
